@@ -6,6 +6,7 @@ I'm a software engineer
 
 ![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavolira&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolira&layout=compact)](https://github.com/gustavolira/github-readme-stats)
+<br/>
 <a href="https://www.linkedin.com/in/gustavo-lira-e-silva-6362308a/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
